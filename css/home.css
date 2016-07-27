@@ -1,0 +1,90 @@
+ body{
+ 	padding: 0;
+ 	height: 100%;
+ 	 font-family: "华文楷体";
+
+ }
+ .content{
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	right: 0;
+ 	bottom: 0;
+ 	margin: 0;
+ 	padding: 0;
+ 	width: 100%;
+ 	min-height: 100%;
+ 	height: auto;
+
+ 	
+ }
+ .photo{	
+ 	width: auto;
+ 	height: 60%;
+ 	float: right;
+ 	margin-top: 10%;
+ 	overflow: hidden;
+ }
+ .left{
+ 	text-align: right;
+ 	float: right;
+ 	height: 60%;
+ 	margin-top: 10%;
+ 	margin-right:4%;	
+ }
+ .head1 {
+ 	margin-top: 20%;
+ 	
+ 	font-size: 8vh;
+ 	 font-family: "华文中宋";
+ 	 font-weight: bolder;
+ }
+ .head2{
+ 	margin-top: 2%;
+ 	font-size:8vh;
+ 	font-family: "Baskerville Old Face";
+ }
+ .text{
+ 	font-size:2vh;
+ 	margin-top: 6%;
+    font-family: "Baskerville Old Face";
+    color: #666;
+
+ }
+ .welcome{
+ 	margin-top: 43%;	
+ 	width: 50%;
+ 	float: right;
+ 	
+
+ }
+ .welcome a{
+ 	color: #000;
+ 	text-decoration: none;
+ }
+ .head1 a{
+ 	color: #000;
+ 	font-size: 2.5vh;
+ }
+ .heart-color{
+ 	color:#A6273C;
+ }
+ .enter-button{
+ 	background-color: #000;
+ 	color: #fff;
+ 	font-family: "Baskerville Old Face";
+ 	font-size: 2vh;
+ 	font-weight: bolder;
+ 	border-radius: 0;
+ 	border-color: #000;
+ 	border-width: 2px;
+ 	
+ }
+
+ .enter-button:hover,
+ .enter-button:focus
+ {
+ 	background-color: #fff;
+ 	color: #000;
+ 	border-color: #000;
+ }

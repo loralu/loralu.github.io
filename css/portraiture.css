@@ -5,7 +5,7 @@ body{
 }
 .nav-left{
 	padding-left: 5%;
-	padding-top: 15%;
+	margin-top: 15%;
 
 }
 .logo{
@@ -51,7 +51,7 @@ body{
 }
 
 .right{
-	padding-top: 15%;
+	margin-top: 15%;
 	padding-right: 20px;
 }
 

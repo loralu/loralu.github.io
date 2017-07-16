@@ -1,6 +1,6 @@
-# Lora's Website
+# Lara's Website
 
-Please visit: http://lllur.me.
+Please visit: http://lllur.me  OR  http://loralu.github.io.
 
 ## Blog Source Code
 

@@ -78,18 +78,24 @@ body{
 }
 .content{
 	margin-top: 10%;
-	color:gray;
-
 	font-size: 17px;
+	padding-left: 0;	
 	
-	
+}
+.content > li{
+	list-style: none;
+	margin-bottom: 10px;
+
+}
+.content > li > span{
+	left: 50px;
+	position: absolute;
 }
 
 .social{
-	margin-top:100px;
+	margin-top:60px;
 	padding-left: 0;
-	list-style: none;
-	
+	list-style: none;	
 }
 .social > li{
 	margin: 10px 0;
